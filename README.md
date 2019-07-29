@@ -3,7 +3,7 @@
 
 [![](https://jitpack.io/v/qzc0537/ShadowLayout.svg)](https://jitpack.io/#qzc0537/ShadowLayout)
 
-![ShadowLayout](https://github.com/qzc0537/ShadowLayout/blob/master/img.png)
+![ShadowLayout](https://github.com/qzc0537/ShadowLayout/blob/master/screenShot.png)
 
 
 使用
