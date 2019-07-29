@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowLayout">
+        <attr name="sl_shadow_color" format="color"/>
+        <attr name="sl_background_color" format="color"/>
+        <attr name="sl_offsetX" format="dimension"/>
+        <attr name="sl_offsetY" format="dimension"/>
+        <attr name="sl_shadow_radius" format="dimension"/>
+        <attr name="sl_layout_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
